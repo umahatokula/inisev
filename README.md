@@ -4,3 +4,5 @@ This a simple subscription platform(only RESTful APIs) in which users can subscr
 
 ## NOTE
 Note that `MAIL_MAILER=log` for conveneince.
+
+Postman collection file can be found in the root directory name `Inisev API.postman_collection.json`
